@@ -1,1 +1,1 @@
-# terrain-demo
+# terrain-dapp-demo
